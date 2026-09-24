@@ -1,4 +1,4 @@
 interface:
   display_name: "REDACTED Crypto Resources"
-  short_description: "Find Web3 tools through the REDACTED catalog"
+  short_description: "Search REDACTED's crypto developer catalog"
   default_prompt: "Use $redacted-crypto-resources to find developer tools for my crypto project, then check current provider details."
